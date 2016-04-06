@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_ff878ed6",
+        "filename": "app/src/main/res/values/strings.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-04-06T16:39:22Z",
+      "side": 1,
+      "message": "Should be: Weather Underground CM Weather Provider",
+      "revId": "dda60c79896d803d944abfa022c779982f9ad88a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
