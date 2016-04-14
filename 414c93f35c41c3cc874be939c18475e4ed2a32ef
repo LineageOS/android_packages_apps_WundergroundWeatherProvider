@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "7faddb67_abbea662",
+        "filename": "app/src/main/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2016-04-14T21:56:36Z",
+      "side": 1,
+      "message": "indentation is the same for the rest. afaict android studio formatted this incorrectly when generating the xml file.",
+      "parentUuid": "7faddb67_2b04f649",
+      "range": {
+        "startLine": 14,
+        "startChar": 4,
+        "endLine": 14,
+        "endChar": 5
+      },
+      "revId": "414c93f35c41c3cc874be939c18475e4ed2a32ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7faddb67_0bf9fa4b",
         "filename": "app/src/main/res/values/strings.xml",
         "patchSetId": 1
@@ -48,6 +72,30 @@
     },
     {
       "key": {
+        "uuid": "7faddb67_cbc1a2e6",
+        "filename": "app/src/main/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2016-04-14T21:56:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7faddb67_0bf9fa4b",
+      "range": {
+        "startLine": 18,
+        "startChar": 54,
+        "endLine": 18,
+        "endChar": 64
+      },
+      "revId": "414c93f35c41c3cc874be939c18475e4ed2a32ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7faddb67_ab9546e6",
         "filename": "app/src/main/res/values/strings.xml",
         "patchSetId": 1
@@ -59,6 +107,30 @@
       "writtenOn": "2016-04-14T21:54:16Z",
       "side": 1,
       "message": "Create account",
+      "range": {
+        "startLine": 20,
+        "startChar": 61,
+        "endLine": 20,
+        "endChar": 78
+      },
+      "revId": "414c93f35c41c3cc874be939c18475e4ed2a32ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_6bb8ae75",
+        "filename": "app/src/main/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2016-04-14T21:56:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7faddb67_ab9546e6",
       "range": {
         "startLine": 20,
         "startChar": 61,
