@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "7faddb67_0ba7ba51",
+        "filename": "app/src/main/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-04-14T21:58:37Z",
+      "side": 1,
+      "message": "Weird, afaik indentation was always 2 or 4 spaces, not 5",
+      "parentUuid": "7faddb67_abbea662",
+      "range": {
+        "startLine": 14,
+        "startChar": 4,
+        "endLine": 14,
+        "endChar": 5
+      },
+      "revId": "414c93f35c41c3cc874be939c18475e4ed2a32ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7faddb67_0bf9fa4b",
         "filename": "app/src/main/res/values/strings.xml",
         "patchSetId": 1
