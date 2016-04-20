@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_78d1a057",
+        "filename": "app/src/main/java/org/cyanogenmod/wundergroundcmweatherprovider/wunderground/ConverterUtils.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2016-04-20T17:33:23Z",
+      "side": 1,
+      "message": "sWeatherConditionStringToCode",
+      "range": {
+        "startLine": 38,
+        "startChar": 40,
+        "endLine": 38,
+        "endChar": 69
+      },
+      "revId": "aecb9b66fb7fc99ec555425a98bc2d381c9ffa08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_38cb28a6",
+        "filename": "app/src/main/java/org/cyanogenmod/wundergroundcmweatherprovider/wunderground/ConverterUtils.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2016-04-20T17:33:23Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this be getCondition instead of getConditions? It just returns only one condition, right?",
+      "range": {
+        "startLine": 178,
+        "startChar": 48,
+        "endLine": 178,
+        "endChar": 61
+      },
+      "revId": "aecb9b66fb7fc99ec555425a98bc2d381c9ffa08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_18c2ec86",
+        "filename": "app/src/main/java/org/cyanogenmod/wundergroundcmweatherprovider/wunderground/ConverterUtils.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2016-04-20T17:33:23Z",
+      "side": 1,
+      "message": "It\u0027s safe to pass a null to the map, so this could be simplified with\n\nreturn mWeatherConditionStringToCode.contains(weatherCondition)\n    ? mWeatherConditionStringToCode.get(weatherCondition)\n    : WeatherContract.WeatherColumns.WeatherCode.NOT_AVAILABLE;",
+      "range": {
+        "startLine": 201,
+        "startChar": 22,
+        "endLine": 201,
+        "endChar": 23
+      },
+      "revId": "aecb9b66fb7fc99ec555425a98bc2d381c9ffa08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
