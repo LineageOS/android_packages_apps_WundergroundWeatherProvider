@@ -22,6 +22,30 @@
       "revId": "e020b03a20a62bd451463b3905afb40089938c33",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_5845c416",
+        "filename": "app/src/main/java/org/cyanogenmod/wundergroundcmweatherprovider/WUBasePreferenceActivity.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 242,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2016-04-20T17:48:51Z",
+      "side": 1,
+      "message": "you\u0027re right O_o",
+      "parentUuid": "5faad753_58f704f7",
+      "range": {
+        "startLine": 242,
+        "startChar": 17,
+        "endLine": 242,
+        "endChar": 35
+      },
+      "revId": "e020b03a20a62bd451463b3905afb40089938c33",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
