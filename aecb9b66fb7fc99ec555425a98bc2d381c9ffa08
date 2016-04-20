@@ -48,6 +48,30 @@
     },
     {
       "key": {
+        "uuid": "5faad753_189f4c51",
+        "filename": "app/src/main/java/org/cyanogenmod/wundergroundcmweatherprovider/wunderground/ConverterUtils.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 9813
+      },
+      "writtenOn": "2016-04-20T19:15:53Z",
+      "side": 1,
+      "message": "This is actually how its presented in the json response. Not sure if I should change it.",
+      "parentUuid": "5faad753_38cb28a6",
+      "range": {
+        "startLine": 178,
+        "startChar": 48,
+        "endLine": 178,
+        "endChar": 61
+      },
+      "revId": "aecb9b66fb7fc99ec555425a98bc2d381c9ffa08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5faad753_18c2ec86",
         "filename": "app/src/main/java/org/cyanogenmod/wundergroundcmweatherprovider/wunderground/ConverterUtils.java",
         "patchSetId": 3
