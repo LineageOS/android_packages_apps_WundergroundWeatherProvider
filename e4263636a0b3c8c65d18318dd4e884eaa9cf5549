@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_0c9a9b13",
+        "filename": "README.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1690
+      },
+      "writtenOn": "2016-04-28T00:44:35Z",
+      "side": 1,
+      "message": "wrong spelling",
+      "range": {
+        "startLine": 5,
+        "startChar": 32,
+        "endLine": 5,
+        "endChar": 39
+      },
+      "revId": "e4263636a0b3c8c65d18318dd4e884eaa9cf5549",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
