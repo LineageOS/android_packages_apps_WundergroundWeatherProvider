@@ -12,4 +12,10 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="action_settings">Configurações</string>
+  <string name="authentication_preference_api_key">Chave da API</string>
+  <string name="authentication_preference_api_key_verified">Autenticado</string>
+  <string name="authentication_preference_account_create">Criar conta</string>
+  <string name="about_preference_category_title">Sobre</string>
+</resources>
