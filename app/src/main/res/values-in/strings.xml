@@ -13,5 +13,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="action_settings">Pengaturan</string>
+  <string name="authentication_preference_category_title">Autentikasi</string>
+  <string name="authentication_preference_api_key">Kunci API</string>
+  <string name="authentication_preference_api_key_summary">Kunci API yang digunakan untuk autentikasi Weather Underground</string>
+  <string name="authentication_preference_api_key_verified">Terautentikasi</string>
+  <string name="authentication_preference_api_key_not_verified">Tidak dapat mengautentikasi</string>
   <string name="authentication_preference_account_create">Buat akun</string>
+  <string name="authentication_preference_account_create_summary">Buat akun guna mendapatkan kunci API untuk penggunaan data cuaca</string>
+  <string name="about_preference_category_title">Tentang</string>
+  <string name="about_preference">Hak Cipta</string>
+  <string name="about_preference_summary">Weather Underground adalah merek dagang terdaftar dari The Weather Channel, LLC. baik di Amerika Serikat maupun secara internasional. Logo Weather Underground adalah merek dagang dari Weather Underground, LLC.</string>
 </resources>
