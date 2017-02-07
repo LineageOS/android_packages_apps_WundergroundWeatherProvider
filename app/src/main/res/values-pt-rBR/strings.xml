@@ -14,8 +14,14 @@
 -->
 <resources>
   <string name="action_settings">Configurações</string>
+  <string name="authentication_preference_category_title">Autenticação</string>
   <string name="authentication_preference_api_key">Chave da API</string>
+  <string name="authentication_preference_api_key_summary">Chave da API a ser utilizada para autenticação no Weather Underground</string>
   <string name="authentication_preference_api_key_verified">Autenticado</string>
+  <string name="authentication_preference_api_key_not_verified">Não foi possível autenticar</string>
   <string name="authentication_preference_account_create">Criar conta</string>
+  <string name="authentication_preference_account_create_summary">Criar uma conta para obter uma chave de API para ter acesso a informações meteorológicas</string>
   <string name="about_preference_category_title">Sobre</string>
+  <string name="about_preference">Direitos Autorais</string>
+  <string name="about_preference_summary">Weather Underground é uma marca registada de The Weather Channel, LLC. tanto nos Estados Unidos como internacionalmente. O logotipo do Weather Underground é uma marca registrada de Weather Underground, LLC.</string>
 </resources>
