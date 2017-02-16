@@ -12,4 +12,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="action_settings">הגדרות</string>
+  <string name="authentication_preference_category_title">אימות</string>
+  <string name="authentication_preference_api_key">מפתח API</string>
+  <string name="authentication_preference_api_key_summary">מפתח ה־API לשימוש בשביל אימות Weather Underground</string>
+  <string name="authentication_preference_api_key_verified">מאומת</string>
+  <string name="authentication_preference_api_key_not_verified">לא ניתן לאמת</string>
+  <string name="authentication_preference_account_create">צור חשבון</string>
+  <string name="authentication_preference_account_create_summary">צור חשבון בכדי לקבל מפתח API לשימוש בנתוני מזג אוויר</string>
+  <string name="about_preference_category_title">אודות</string>
+  <string name="about_preference">זכויות יוצרים</string>
+  <string name="about_preference_summary">Weather Underground הוא סימן מסחרי רשום של The Weather Channel, LLC. בארצות הברית ובכל העולם. סמל Weather Underground הוא סימן רשום של The Weather Channel, LLC.</string>
+</resources>
