@@ -14,4 +14,11 @@
 -->
 <resources>
   <string name="action_settings">設定</string>
+  <string name="authentication_preference_category_title">認証</string>
+  <string name="authentication_preference_api_key">API キー</string>
+  <string name="authentication_preference_api_key_summary">Weather Underground の認証に利用する API キー</string>
+  <string name="authentication_preference_api_key_verified">認証済み</string>
+  <string name="authentication_preference_api_key_not_verified">認証できません</string>
+  <string name="authentication_preference_account_create">アカウントの作成</string>
+  <string name="authentication_preference_account_create_summary">天気データを使うために API キーを取得するアカウントを作成します。</string>
 </resources>

@@ -16,6 +16,7 @@
   <string name="action_settings">Instellingen</string>
   <string name="authentication_preference_category_title">Authenticatie</string>
   <string name="authentication_preference_api_key">API-sleutel</string>
+  <string name="authentication_preference_api_key_summary">API-sleutel voor authenticatie bij Weather Underground</string>
   <string name="authentication_preference_api_key_verified">Geverifieerd</string>
   <string name="authentication_preference_api_key_not_verified">Kan niet verifiëren</string>
   <string name="authentication_preference_account_create">Account aanmaken</string>
