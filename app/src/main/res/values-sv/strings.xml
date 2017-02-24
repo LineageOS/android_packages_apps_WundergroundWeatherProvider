@@ -15,4 +15,6 @@
 <resources>
   <string name="action_settings">Inställningar</string>
   <string name="authentication_preference_api_key">API nyckel</string>
+  <string name="about_preference_category_title">Om</string>
+  <string name="about_preference">Upphovsrätt</string>
 </resources>
