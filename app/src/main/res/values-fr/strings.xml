@@ -12,4 +12,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="action_settings">Paramètres</string>
+  <string name="authentication_preference_category_title">Authentification</string>
+  <string name="authentication_preference_api_key">Clé d\'API</string>
+  <string name="authentication_preference_api_key_verified">Authentifié</string>
+  <string name="authentication_preference_api_key_not_verified">Authentification impossible</string>
+  <string name="authentication_preference_account_create">Créer un compte</string>
+  <string name="about_preference_category_title">À propos</string>
+</resources>
