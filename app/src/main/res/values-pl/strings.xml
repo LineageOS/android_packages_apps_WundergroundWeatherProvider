@@ -14,4 +14,10 @@
 -->
 <resources>
   <string name="action_settings">Ustawienia</string>
+  <string name="authentication_preference_category_title">Uwierzytelnienie</string>
+  <string name="authentication_preference_api_key">Klucz API</string>
+  <string name="authentication_preference_api_key_verified">Uwierzytelniono</string>
+  <string name="authentication_preference_api_key_not_verified">Nie można uwierzytelnić</string>
+  <string name="about_preference_category_title">O programie</string>
+  <string name="about_preference">Prawa autorskie</string>
 </resources>

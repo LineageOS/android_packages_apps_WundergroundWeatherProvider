@@ -16,9 +16,12 @@
   <string name="action_settings">Beállítások</string>
   <string name="authentication_preference_category_title">Hitelesítés</string>
   <string name="authentication_preference_api_key">API kulcs</string>
+  <string name="authentication_preference_api_key_summary">Weather Underground hitelesítéshez használt API-kulcs</string>
   <string name="authentication_preference_api_key_verified">Hitelesítve</string>
   <string name="authentication_preference_api_key_not_verified">Sikertelen hitelesítés</string>
   <string name="authentication_preference_account_create">Fiók létrehozása</string>
+  <string name="authentication_preference_account_create_summary">Hozzon létre egy fiókot, hogy az időjárási adatok használatához API-kulcsot kapjon</string>
   <string name="about_preference_category_title">Névjegy</string>
   <string name="about_preference">Minden Jog fenntartva</string>
+  <string name="about_preference_summary">Weather Underground a The Weather Channel, LLC bejegyzett védjegye. az Egyesült Államokban és nemzetközi szinten is. A Weather Underground logó a Weather Underground, LLC bejegyzett védjegye.</string>
 </resources>
