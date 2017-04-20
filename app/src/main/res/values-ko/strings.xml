@@ -16,9 +16,12 @@
   <string name="action_settings">설정</string>
   <string name="authentication_preference_category_title">권한 인증</string>
   <string name="authentication_preference_api_key">API 키</string>
+  <string name="authentication_preference_api_key_summary">Weather Underground 인증에 사용할 API 키</string>
   <string name="authentication_preference_api_key_verified">인증됨</string>
   <string name="authentication_preference_api_key_not_verified">인증할 수 없음</string>
   <string name="authentication_preference_account_create">계정 만들기</string>
+  <string name="authentication_preference_account_create_summary">날씨 정보 사용에 필요한 API 키를 얻기 위해 계정 만들기</string>
   <string name="about_preference_category_title">정보</string>
   <string name="about_preference">저작권</string>
+  <string name="about_preference_summary">Weather Underground는 미국 및 기타 국가에 등록된 The Weather Channel, LLC.의 상표입니다. Weather Underground 로고는 Weather Underground, LLC.의 상표입니다.</string>
 </resources>
