@@ -23,4 +23,5 @@
   <string name="authentication_preference_account_create_summary">Créer un compte pour obtenir une clé d\'API pour l’utilisation des données météorologiques</string>
   <string name="about_preference_category_title">À propos</string>
   <string name="about_preference">Droits d\'auteur</string>
+  <string name="about_preference_summary">Weather Underground est une marque déposée de The Weather Channel, LLC. à la fois aux Etats-Unis et à l’étranger. Le logo de Weather Underground est une marque de Weather Underground, LLC.</string>
 </resources>
