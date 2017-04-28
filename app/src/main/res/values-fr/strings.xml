@@ -12,4 +12,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="action_settings">Paramètres</string>
+  <string name="authentication_preference_category_title">Authentification</string>
+  <string name="authentication_preference_api_key">Clé d\'API</string>
+  <string name="authentication_preference_api_key_summary">Clé d\'API à utiliser pour l\'authentification Weather Underground</string>
+  <string name="authentication_preference_api_key_verified">Authentifié</string>
+  <string name="authentication_preference_api_key_not_verified">Authentification impossible</string>
+  <string name="authentication_preference_account_create">Créer un compte</string>
+  <string name="authentication_preference_account_create_summary">Créer un compte pour obtenir une clé d\'API pour l’utilisation des données météorologiques</string>
+  <string name="about_preference_category_title">À propos</string>
+  <string name="about_preference">Droits d\'auteur</string>
+  <string name="about_preference_summary">Weather Underground est une marque déposée de The Weather Channel, LLC. à la fois aux Etats-Unis et à l’étranger. Le logo de Weather Underground est une marque de Weather Underground, LLC.</string>
+</resources>
