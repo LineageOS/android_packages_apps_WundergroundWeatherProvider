@@ -16,8 +16,12 @@
   <string name="action_settings">Ustawienia</string>
   <string name="authentication_preference_category_title">Uwierzytelnienie</string>
   <string name="authentication_preference_api_key">Klucz API</string>
+  <string name="authentication_preference_api_key_summary">Klucz API do użycia dla uwierzytelniania Weather Underground</string>
   <string name="authentication_preference_api_key_verified">Uwierzytelniono</string>
   <string name="authentication_preference_api_key_not_verified">Nie można uwierzytelnić</string>
+  <string name="authentication_preference_account_create">Utwórz konto</string>
+  <string name="authentication_preference_account_create_summary">Utwórz konto, aby otrzymać klucz API do użycia danych pogodowych</string>
   <string name="about_preference_category_title">O programie</string>
   <string name="about_preference">Prawa autorskie</string>
+  <string name="about_preference_summary">Weather Underground jest zastrzeżonym znakiem towarowym firmy The Weather Channel, LLC. zarówno w Stanach Zjednoczonych jak i poza granicami. Logo Weather Underground jest znakiem towarowym firmy Weather Underground, LLC.</string>
 </resources>
