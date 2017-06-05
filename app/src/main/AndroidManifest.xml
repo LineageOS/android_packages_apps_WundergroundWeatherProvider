@@ -12,7 +12,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.cyanogenmod.wundergroundcmweatherprovider" >
+    package="org.lineageos.wundergroundcmweatherprovider" >
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -27,10 +27,10 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
-        android:name=".WundergroundCMApplication">
+        android:name="org.lineageos.wundergroundcmweatherprovider.WundergroundCMApplication">
 
         <activity
-            android:name=".DebugActivity"
+            android:name="org.lineageos.wundergroundcmweatherprovider.DebugActivity"
             android:enabled="false"
             android:label="@string/app_name" >
             <intent-filter>
@@ -38,11 +38,11 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".WUBasePreferenceActivity"
+        <activity android:name="org.lineageos.wundergroundcmweatherprovider.WUBasePreferenceActivity"
             android:exported="true"
             android:label="@string/app_name"/>
 
-        <service android:name=".WundergroundWeatherProviderService"
+        <service android:name="org.lineageos.wundergroundcmweatherprovider.WundergroundWeatherProviderService"
             android:permission="cyanogenmod.permission.BIND_WEATHER_PROVIDER_SERVICE">
             <intent-filter>
                 <action android:name="cyanogenmod.weatherservice.WeatherProviderService" />
