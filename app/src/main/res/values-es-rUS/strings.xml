@@ -20,7 +20,7 @@
   <string name="authentication_preference_api_key_verified">Autenticado</string>
   <string name="authentication_preference_api_key_not_verified">Error al autenticar</string>
   <string name="authentication_preference_account_create">Crear cuenta</string>
-  <string name="authentication_preference_account_create_summary">Crear una cuenta para obtener la clave API y usar los datos del clima</string>
+  <string name="authentication_preference_account_create_summary">Crear una cuenta para obtener la clave API y usar los datos climáticos</string>
   <string name="about_preference_category_title">Acerca de</string>
   <string name="about_preference">Derechos de autor</string>
   <string name="about_preference_summary">Weather Underground es una marca registrada de The Weather Channel, LLC. en los Estados Unidos e internacionalmente. El logotipo de Weather Underground es una marca registrada de Weather Underground, LLC.</string>
