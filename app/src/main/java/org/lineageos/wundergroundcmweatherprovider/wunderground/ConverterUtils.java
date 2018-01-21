@@ -24,9 +24,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import cyanogenmod.providers.WeatherContract;
-import cyanogenmod.weather.WeatherInfo;
-import cyanogenmod.weather.WeatherLocation;
+import lineageos.providers.WeatherContract;
+import lineageos.weather.WeatherInfo;
+import lineageos.weather.WeatherLocation;
 
 public class ConverterUtils {
 

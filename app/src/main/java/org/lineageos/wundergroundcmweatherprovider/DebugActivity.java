@@ -43,19 +43,19 @@ import java.util.List;
 
 import javax.inject.Inject;
 
-import cyanogenmod.providers.WeatherContract;
-import cyanogenmod.weather.CMWeatherManager;
-import cyanogenmod.weather.WeatherInfo;
-import cyanogenmod.weather.WeatherLocation;
+import lineageos.providers.WeatherContract;
+import lineageos.weather.LineageWeatherManager;
+import lineageos.weather.WeatherInfo;
+import lineageos.weather.WeatherLocation;
 
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
 public class DebugActivity extends WUBaseActivity implements
-        CMWeatherManager.WeatherServiceProviderChangeListener,
-        CMWeatherManager.WeatherUpdateRequestListener,
-        CMWeatherManager.LookupCityRequestListener,
+        LineageWeatherManager.WeatherServiceProviderChangeListener,
+        LineageWeatherManager.WeatherUpdateRequestListener,
+        LineageWeatherManager.LookupCityRequestListener,
         LocationListener {
 
     private static final String TAG = DebugActivity.class.getSimpleName();
@@ -66,7 +66,7 @@ public class DebugActivity extends WUBaseActivity implements
     @Inject
     WundergroundServiceManager mWundergroundServiceManager;
 
-    private CMWeatherManager mWeatherManager;
+    private LineageWeatherManager mWeatherManager;
     private LocationManager mLocationManager;
 
     private boolean mDirectRequest = false;
@@ -75,7 +75,7 @@ public class DebugActivity extends WUBaseActivity implements
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mWeatherManager = CMWeatherManager.getInstance(this);
+        mWeatherManager = LineageWeatherManager.getInstance(this);
         mLocationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
         mWeatherManager.registerWeatherServiceProviderChangeListener(this);
     }
@@ -290,19 +290,19 @@ public class DebugActivity extends WUBaseActivity implements
     @Override
     public void onWeatherRequestCompleted(int i, WeatherInfo weatherInfo) {
         switch (i) {
-            case CMWeatherManager.RequestStatus.COMPLETED:
+            case LineageWeatherManager.RequestStatus.COMPLETED:
                 Log.d(TAG, "Weather request completed: " + weatherInfo.toString());
                 break;
-            case CMWeatherManager.RequestStatus.FAILED:
+            case LineageWeatherManager.RequestStatus.FAILED:
                 Log.d(TAG, "Weather request failed!");
                 break;
-            case CMWeatherManager.RequestStatus.ALREADY_IN_PROGRESS:
+            case LineageWeatherManager.RequestStatus.ALREADY_IN_PROGRESS:
                 Log.d(TAG, "Weather request already in progress");
                 break;
-            case CMWeatherManager.RequestStatus.SUBMITTED_TOO_SOON:
+            case LineageWeatherManager.RequestStatus.SUBMITTED_TOO_SOON:
                 Log.d(TAG, "Weather request submitted too soon");
                 break;
-            case CMWeatherManager.RequestStatus.NO_MATCH_FOUND:
+            case LineageWeatherManager.RequestStatus.NO_MATCH_FOUND:
                 Log.d(TAG, "Weather request match not found");
                 break;
         }
@@ -418,7 +418,7 @@ public class DebugActivity extends WUBaseActivity implements
     @Override
     public void onLookupCityRequestCompleted(int state, List<WeatherLocation> arrayList) {
         Log.d(TAG, "Received disambiguation:");
-        if (state == CMWeatherManager.RequestStatus.COMPLETED) {
+        if (state == LineageWeatherManager.RequestStatus.COMPLETED) {
             for (WeatherLocation weatherLocation : arrayList) {
                 Log.d(TAG, "Weather location: " + weatherLocation);
             }

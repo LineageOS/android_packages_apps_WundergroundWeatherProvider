@@ -34,13 +34,13 @@ import org.lineageos.wundergroundcmweatherprovider.wunderground.responses.Wunder
 import org.lineageos.wundergroundcmweatherprovider.wunderground.responses.citylookup.CityDisambiguationResponse;
 import org.lineageos.wundergroundcmweatherprovider.wunderground.responses.forecast.SimpleForecastResponse;
 
-import cyanogenmod.providers.WeatherContract;
-import cyanogenmod.weather.RequestInfo;
-import cyanogenmod.weather.WeatherInfo;
-import cyanogenmod.weather.WeatherLocation;
-import cyanogenmod.weatherservice.ServiceRequest;
-import cyanogenmod.weatherservice.ServiceRequestResult;
-import cyanogenmod.weatherservice.WeatherProviderService;
+import lineageos.providers.WeatherContract;
+import lineageos.weather.RequestInfo;
+import lineageos.weather.WeatherInfo;
+import lineageos.weather.WeatherLocation;
+import lineageos.weatherservice.ServiceRequest;
+import lineageos.weatherservice.ServiceRequestResult;
+import lineageos.weatherservice.WeatherProviderService;
 
 import retrofit2.Call;
 

@@ -20,7 +20,7 @@ import android.util.Log;
 
 import org.lineageos.wundergroundcmweatherprovider.wunderground.responses.WundergroundReponse;
 
-import cyanogenmod.weatherservice.ServiceRequest;
+import lineageos.weatherservice.ServiceRequest;
 
 import retrofit2.Call;
 import retrofit2.Callback;

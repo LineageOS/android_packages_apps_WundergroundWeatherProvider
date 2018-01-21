@@ -18,7 +18,7 @@ package org.lineageos.wundergroundcmweatherprovider;
 
 import org.lineageos.wundergroundcmweatherprovider.wunderground.responses.WundergroundReponse;
 
-import cyanogenmod.weatherservice.ServiceRequest;
+import lineageos.weatherservice.ServiceRequest;
 
 public interface WundergroundResponseListener {
     void processWundergroundResponse(WundergroundReponse wundergroundReponse,

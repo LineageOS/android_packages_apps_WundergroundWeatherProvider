@@ -24,7 +24,7 @@ import java.io.Serializable;
 import java.util.Arrays;
 import java.util.List;
 
-import cyanogenmod.weatherservice.ServiceRequest;
+import lineageos.weatherservice.ServiceRequest;
 
 public class WundergroundReponse implements Serializable {
     @SerializedName("current_observation")

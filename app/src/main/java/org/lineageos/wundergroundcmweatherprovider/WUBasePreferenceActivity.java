@@ -42,7 +42,7 @@ import org.lineageos.wundergroundcmweatherprovider.wunderground.responses.Wunder
 
 import javax.inject.Inject;
 
-import cyanogenmod.weather.WeatherLocation;
+import lineageos.weather.WeatherLocation;
 import retrofit2.Call;
 import retrofit2.Response;
 
