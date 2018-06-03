@@ -115,6 +115,7 @@ public class DebugActivity extends WUBaseActivity implements
     private void requestWeatherInfoByGeoLocation() {
         Criteria criteria = new Criteria();
         criteria.setAccuracy(Criteria.ACCURACY_FINE);
+	//noinspection MissingPermission
         mLocationManager.requestSingleUpdate(criteria, this, Looper.getMainLooper());
     }
 

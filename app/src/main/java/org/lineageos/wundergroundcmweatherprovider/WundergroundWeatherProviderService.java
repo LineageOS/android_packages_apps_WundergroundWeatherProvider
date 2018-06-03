@@ -147,6 +147,7 @@ public class WundergroundWeatherProviderService extends WeatherProviderService
                         getSystemService(Context.LOCATION_SERVICE);
                 Criteria criteria = new Criteria();
                 criteria.setAccuracy(Criteria.ACCURACY_HIGH);
+		//noinspection MissingPermission
                 location = locationManager.getLastKnownLocation(locationManager.getBestProvider(
                         criteria, false));
             }
