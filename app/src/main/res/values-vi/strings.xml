@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Cài đặt</string>
-  <string name="authentication_preference_category_title">Xác thực</string>
-  <string name="authentication_preference_api_key">Khóa API</string>
-  <string name="authentication_preference_api_key_summary">Khóa API để được sử dụng để xác thực Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Đã xác thực</string>
-  <string name="authentication_preference_api_key_not_verified">Không thể xác thực</string>
-  <string name="authentication_preference_account_create">Tạo tài khoản</string>
-  <string name="authentication_preference_account_create_summary">Tạo một tài khoản để có được một khóa API để sử dụng dữ liệu thời tiết</string>
-  <string name="about_preference_category_title">Về</string>
-  <string name="about_preference">Bản quyền</string>
-  <string name="about_preference_summary">Weather Underground là một nhãn hiệu đăng ký của The Weather Channel, LLC. cả Hoa Kỳ và quốc tế. Weather Underground Logo là một thương hiệu của sân bay Weather Underground, LLC.</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="authentication_preference_category_title">Xác thực</string>
+    <string name="authentication_preference_api_key">Khóa API</string>
+    <string name="authentication_preference_api_key_summary">Khóa API để được sử dụng để xác thực Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Đã xác thực</string>
+    <string name="authentication_preference_api_key_not_verified">Không thể xác thực</string>
+    <string name="authentication_preference_account_create">Tạo tài khoản</string>
+    <string name="authentication_preference_account_create_summary">Tạo một tài khoản để có được một khóa API để sử dụng dữ liệu thời tiết</string>
+    <string name="about_preference_category_title">Về</string>
+    <string name="about_preference">Bản quyền</string>
+    <string name="about_preference_summary">Weather Underground là một nhãn hiệu đăng ký của The Weather Channel, LLC. cả Hoa Kỳ và quốc tế. Weather Underground Logo là một thương hiệu của sân bay Weather Underground, LLC.</string>
 </resources>

@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Instellingen</string>
-  <string name="authentication_preference_category_title">Authenticatie</string>
-  <string name="authentication_preference_api_key">API-sleutel</string>
-  <string name="authentication_preference_api_key_summary">API-sleutel voor authenticatie bij Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Geverifieerd</string>
-  <string name="authentication_preference_api_key_not_verified">Kan niet verifiëren</string>
-  <string name="authentication_preference_account_create">Account aanmaken</string>
-  <string name="authentication_preference_account_create_summary">Maak een account aan om een API-sleutel te verkrijgen voor gebruik van weergegevens</string>
-  <string name="about_preference_category_title">Over</string>
-  <string name="about_preference">Copyright</string>
-  <string name="about_preference_summary">Weather Underground is een gedeponeerd handelsmerk van The Weather Channel, LLC. zowel in de Verenigde Staten en internationaal. Het Weather Underground-logo is een handelsmerk van Weather Underground, LLC.</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="authentication_preference_category_title">Authenticatie</string>
+    <string name="authentication_preference_api_key">API-sleutel</string>
+    <string name="authentication_preference_api_key_summary">API-sleutel voor authenticatie bij Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Geverifieerd</string>
+    <string name="authentication_preference_api_key_not_verified">Kan niet verifiëren</string>
+    <string name="authentication_preference_account_create">Account aanmaken</string>
+    <string name="authentication_preference_account_create_summary">Maak een account aan om een API-sleutel te verkrijgen voor gebruik van weergegevens</string>
+    <string name="about_preference_category_title">Over</string>
+    <string name="about_preference">Copyright</string>
+    <string name="about_preference_summary">Weather Underground is een gedeponeerd handelsmerk van The Weather Channel, LLC. zowel in de Verenigde Staten en internationaal. Het Weather Underground-logo is een handelsmerk van Weather Underground, LLC.</string>
 </resources>

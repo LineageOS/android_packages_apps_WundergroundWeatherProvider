@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Поставке</string>
-  <string name="authentication_preference_category_title">Autentikacija</string>
-  <string name="authentication_preference_api_key">API кључ</string>
-  <string name="authentication_preference_api_key_summary">API кључ ѕа коришћење Weather Underground аутентикације</string>
-  <string name="authentication_preference_api_key_verified">Аутентификовано</string>
-  <string name="authentication_preference_api_key_not_verified">Није могуће потврдити аутентичност</string>
-  <string name="authentication_preference_account_create">Креирај налог</string>
-  <string name="authentication_preference_account_create_summary">Креирај налог да добијеш API кључ за коришћење података прогнозе</string>
-  <string name="about_preference_category_title">О</string>
-  <string name="about_preference">Ауторска права</string>
-  <string name="about_preference_summary">Weather Underground је регистровани заштитни знак The Weather Channel, LLC. како у САД тако и међународно. Weather Underground лого је заштитни знак Weather Underground, LLC.</string>
+    <string name="action_settings">Поставке</string>
+    <string name="authentication_preference_category_title">Autentikacija</string>
+    <string name="authentication_preference_api_key">API кључ</string>
+    <string name="authentication_preference_api_key_summary">API кључ ѕа коришћење Weather Underground аутентикације</string>
+    <string name="authentication_preference_api_key_verified">Аутентификовано</string>
+    <string name="authentication_preference_api_key_not_verified">Није могуће потврдити аутентичност</string>
+    <string name="authentication_preference_account_create">Креирај налог</string>
+    <string name="authentication_preference_account_create_summary">Креирај налог да добијеш API кључ за коришћење података прогнозе</string>
+    <string name="about_preference_category_title">О</string>
+    <string name="about_preference">Ауторска права</string>
+    <string name="about_preference_summary">Weather Underground је регистровани заштитни знак The Weather Channel, LLC. како у САД тако и међународно. Weather Underground лого је заштитни знак Weather Underground, LLC.</string>
 </resources>

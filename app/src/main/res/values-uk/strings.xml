@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Налаштування</string>
-  <string name="authentication_preference_category_title">Автентифікація</string>
-  <string name="authentication_preference_api_key">Ключ API</string>
-  <string name="authentication_preference_api_key_summary">API-ключ для аутентифікації в Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Підтверджено</string>
-  <string name="authentication_preference_api_key_not_verified">Не вдається автентифікувати</string>
-  <string name="authentication_preference_account_create">Створити акаунт</string>
-  <string name="authentication_preference_account_create_summary">Створити обліковий запис та отримати API-ключ для використання погодних даних</string>
-  <string name="about_preference_category_title">Про</string>
-  <string name="about_preference">Авторські права</string>
-  <string name="about_preference_summary">Weather Underground є зареєстрованим товарним знаком компанії The Weather Channel, LLC. як в Сполучених Штатах так і на міжнародному рівні. Логотип Weather Underground є торговою маркою Weather Underground, LLC.</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="authentication_preference_category_title">Автентифікація</string>
+    <string name="authentication_preference_api_key">Ключ API</string>
+    <string name="authentication_preference_api_key_summary">API-ключ для аутентифікації в Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Підтверджено</string>
+    <string name="authentication_preference_api_key_not_verified">Не вдається автентифікувати</string>
+    <string name="authentication_preference_account_create">Створити акаунт</string>
+    <string name="authentication_preference_account_create_summary">Створити обліковий запис та отримати API-ключ для використання погодних даних</string>
+    <string name="about_preference_category_title">Про</string>
+    <string name="about_preference">Авторські права</string>
+    <string name="about_preference_summary">Weather Underground є зареєстрованим товарним знаком компанії The Weather Channel, LLC. як в Сполучених Штатах так і на міжнародному рівні. Логотип Weather Underground є торговою маркою Weather Underground, LLC.</string>
 </resources>

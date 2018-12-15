@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Einstellungen</string>
-  <string name="authentication_preference_category_title">Authentifizierung</string>
-  <string name="authentication_preference_api_key">API-Schlüssel</string>
-  <string name="authentication_preference_api_key_summary">API-Schlüssel für die Authentifizierung bei Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Authentifiziert</string>
-  <string name="authentication_preference_api_key_not_verified">Authentifizierung nicht möglich</string>
-  <string name="authentication_preference_account_create">Konto erstellen</string>
-  <string name="authentication_preference_account_create_summary">Erstellen Sie ein Konto, um einen API-Schlüssel für die Nutzung der Wetterdaten zu erhalten</string>
-  <string name="about_preference_category_title">Über</string>
-  <string name="about_preference">Copyright</string>
-  <string name="about_preference_summary">Weather Underground ist eine in den Vereinigten Staaten und international eingetragene Marke von The Weather Channel, LLC. Das Weather-Underground-Logo ist ein Warenzeichen von Weather Underground, LLC.</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="authentication_preference_category_title">Authentifizierung</string>
+    <string name="authentication_preference_api_key">API-Schlüssel</string>
+    <string name="authentication_preference_api_key_summary">API-Schlüssel für die Authentifizierung bei Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Authentifiziert</string>
+    <string name="authentication_preference_api_key_not_verified">Authentifizierung nicht möglich</string>
+    <string name="authentication_preference_account_create">Konto erstellen</string>
+    <string name="authentication_preference_account_create_summary">Erstellen Sie ein Konto, um einen API-Schlüssel für die Nutzung der Wetterdaten zu erhalten</string>
+    <string name="about_preference_category_title">Über</string>
+    <string name="about_preference">Copyright</string>
+    <string name="about_preference_summary">Weather Underground ist eine in den Vereinigten Staaten und international eingetragene Marke von The Weather Channel, LLC. Das Weather-Underground-Logo ist ein Warenzeichen von Weather Underground, LLC.</string>
 </resources>

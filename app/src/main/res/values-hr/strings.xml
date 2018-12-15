@@ -12,4 +12,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string name="action_settings">Postavke</string>
+    <string name="authentication_preference_category_title">Autentikacija</string>
+    <string name="authentication_preference_api_key">API ključ</string>
+    <string name="authentication_preference_api_key_summary">API ključ koji će se iskoristiti za autentifikaciju Weather Undergrounda</string>
+    <string name="authentication_preference_api_key_verified">Autentificirano</string>
+    <string name="authentication_preference_api_key_not_verified">Autentifikacija nije moguća</string>
+    <string name="authentication_preference_account_create">Izradi račun</string>
+    <string name="authentication_preference_account_create_summary">Izradite račun da dobijete API ključ za upotrebu vremenskih podataka</string>
+    <string name="about_preference_category_title">O</string>
+    <string name="about_preference">Autorska prava</string>
+    <string name="about_preference_summary">Weather Underground je registrirani zaštitni znak tvrtke The Weather Channel, LLC. u SAD-u i na međunarodnoj razini. Logotip Weather Undergrounda zaštitni je znak tvrtke Weather Underground, LLC.</string>
+</resources>
