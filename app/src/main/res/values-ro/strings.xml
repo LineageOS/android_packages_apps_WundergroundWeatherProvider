@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Setări</string>
-  <string name="authentication_preference_category_title">Autentificare</string>
-  <string name="authentication_preference_api_key">Cheie API</string>
-  <string name="authentication_preference_api_key_summary">Cheia API va fi utilizată pentru autentificarea Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Autentificat</string>
-  <string name="authentication_preference_api_key_not_verified">Autentificarea nu s-a efectuat</string>
-  <string name="authentication_preference_account_create">Creați un cont</string>
-  <string name="authentication_preference_account_create_summary">Creaţi un cont pentru a obţine o cheie API pentru utilizarea datelor de vreme</string>
-  <string name="about_preference_category_title">Despre</string>
-  <string name="about_preference">Copyright</string>
-  <string name="about_preference_summary">Weather Underground este o marcă înregistrată a The Weather Channel, LLC. atât în Statele Unite cât şi la nivel internaţional. Logo-ul Weather Underground este o marcă a Weather Underground, LLC.</string>
+    <string name="action_settings">Setări</string>
+    <string name="authentication_preference_category_title">Autentificare</string>
+    <string name="authentication_preference_api_key">Cheie API</string>
+    <string name="authentication_preference_api_key_summary">Cheia API va fi utilizată pentru autentificarea Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Autentificat</string>
+    <string name="authentication_preference_api_key_not_verified">Autentificarea nu s-a efectuat</string>
+    <string name="authentication_preference_account_create">Creați un cont</string>
+    <string name="authentication_preference_account_create_summary">Creaţi un cont pentru a obţine o cheie API pentru utilizarea datelor de vreme</string>
+    <string name="about_preference_category_title">Despre</string>
+    <string name="about_preference">Copyright</string>
+    <string name="about_preference_summary">Weather Underground este o marcă înregistrată a The Weather Channel, LLC. atât în Statele Unite cât şi la nivel internaţional. Logo-ul Weather Underground este o marcă a Weather Underground, LLC.</string>
 </resources>

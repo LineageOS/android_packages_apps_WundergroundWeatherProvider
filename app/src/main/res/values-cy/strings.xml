@@ -12,4 +12,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string name="action_settings">Gosodiadau</string>
+    <string name="authentication_preference_category_title">Dilyswyd</string>
+    <string name="authentication_preference_api_key">Allwedd API</string>
+    <string name="authentication_preference_api_key_summary">Yr allwedd API i\'w ddefnyddio ar gyfer dilysiad Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Dilyswyd</string>
+    <string name="authentication_preference_api_key_not_verified">Methu â dilysu</string>
+    <string name="authentication_preference_account_create">Creu cyfrif</string>
+    <string name="authentication_preference_account_create_summary">Rhaid creu cyfrif i gael allwedd API ar gyfer defnydd data tywydd</string>
+    <string name="about_preference_category_title">Ynghylch</string>
+    <string name="about_preference">Hawlfraint</string>
+    <string name="about_preference_summary">Mae OpenWeatherMap yn nod masnach wedi\'i gofrestru i OpenWeatherMap Inc. yn Unol Daleithiau America ac yn rhyngwladol. Mae logo Weather Underground yn nod masnach Weather Underground, LLC.</string>
+</resources>

@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Ajustes</string>
-  <string name="authentication_preference_category_title">Autentificación</string>
-  <string name="authentication_preference_api_key">Clave de la API</string>
-  <string name="authentication_preference_api_key_summary">Clave de API que se utilice para la autenticación de Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Autenticado</string>
-  <string name="authentication_preference_api_key_not_verified">Error al autenticar</string>
-  <string name="authentication_preference_account_create">Crear una cuenta</string>
-  <string name="authentication_preference_account_create_summary">Crear una cuenta para obtener una API key para el uso de datos de tiempo</string>
-  <string name="about_preference_category_title">Acerca de</string>
-  <string name="about_preference">Derechos de Autor</string>
-  <string name="about_preference_summary">Weather Underground es una marca registrada de The Weather Channel, LLC. en los Estados Unidos e internacionalmente. El logotipo de metro de tiempo es una marca registrada de Weather Underground, LLC.</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="authentication_preference_category_title">Autentificación</string>
+    <string name="authentication_preference_api_key">Clave de la API</string>
+    <string name="authentication_preference_api_key_summary">Clave de API que se utilice para la autenticación de Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Autenticado</string>
+    <string name="authentication_preference_api_key_not_verified">Error al autenticar</string>
+    <string name="authentication_preference_account_create">Crear una cuenta</string>
+    <string name="authentication_preference_account_create_summary">Crear una cuenta para obtener una API key para el uso de datos de tiempo</string>
+    <string name="about_preference_category_title">Acerca de</string>
+    <string name="about_preference">Derechos de Autor</string>
+    <string name="about_preference_summary">Weather Underground es una marca registrada de The Weather Channel, LLC. en los Estados Unidos e internacionalmente. El logotipo de metro de tiempo es una marca registrada de Weather Underground, LLC.</string>
 </resources>

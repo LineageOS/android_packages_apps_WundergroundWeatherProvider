@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Nastavení</string>
-  <string name="authentication_preference_category_title">Ověřování</string>
-  <string name="authentication_preference_api_key">API klíč</string>
-  <string name="authentication_preference_api_key_summary">Klíč API bude použit pro autentizaci u poskytovatele Weaher Undergroud</string>
-  <string name="authentication_preference_api_key_verified">Ověřeno</string>
-  <string name="authentication_preference_api_key_not_verified">Ověření se nezdařilo</string>
-  <string name="authentication_preference_account_create">Vytvořit účet</string>
-  <string name="authentication_preference_account_create_summary">Pro získávání dat o počasí vytvořte účet na stránkách poskytovatele a získáte klíč API</string>
-  <string name="about_preference_category_title">O poskytovateli</string>
-  <string name="about_preference">Autorská práva</string>
-  <string name="about_preference_summary">Weather Underground je registrovaná ochranná známka The Weather Channel, LLC. v USA i mezinárodně. Weather Underground logo je ochranná známka společnosti Weather Underground, LLC.</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="authentication_preference_category_title">Ověřování</string>
+    <string name="authentication_preference_api_key">API klíč</string>
+    <string name="authentication_preference_api_key_summary">Klíč API bude použit pro autentizaci u poskytovatele Weaher Undergroud</string>
+    <string name="authentication_preference_api_key_verified">Ověřeno</string>
+    <string name="authentication_preference_api_key_not_verified">Ověření se nezdařilo</string>
+    <string name="authentication_preference_account_create">Vytvořit účet</string>
+    <string name="authentication_preference_account_create_summary">Pro získávání dat o počasí vytvořte účet na stránkách poskytovatele a získáte klíč API</string>
+    <string name="about_preference_category_title">O poskytovateli</string>
+    <string name="about_preference">Autorská práva</string>
+    <string name="about_preference_summary">Weather Underground je registrovaná ochranná známka The Weather Channel, LLC. v USA i mezinárodně. Weather Underground logo je ochranná známka společnosti Weather Underground, LLC.</string>
 </resources>

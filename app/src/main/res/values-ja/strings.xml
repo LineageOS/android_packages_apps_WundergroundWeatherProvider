@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">設定</string>
-  <string name="authentication_preference_category_title">認証</string>
-  <string name="authentication_preference_api_key">API キー</string>
-  <string name="authentication_preference_api_key_summary">Weather Underground の認証に利用する API キー</string>
-  <string name="authentication_preference_api_key_verified">認証済み</string>
-  <string name="authentication_preference_api_key_not_verified">認証できません</string>
-  <string name="authentication_preference_account_create">アカウントの作成</string>
-  <string name="authentication_preference_account_create_summary">天気データを使用するために、API キーを取得するアカウントを作成します。</string>
-  <string name="about_preference_category_title">このアプリについて</string>
-  <string name="about_preference">コピーライト</string>
-  <string name="about_preference_summary">Weather Underground は The Weather Channel, LLC. のアメリカ合衆国及び国際登録商標です。The Weather Underground Logo は Weather Underground, LLC. の商標です。</string>
+    <string name="action_settings">設定</string>
+    <string name="authentication_preference_category_title">認証</string>
+    <string name="authentication_preference_api_key">API キー</string>
+    <string name="authentication_preference_api_key_summary">Weather Underground の認証に利用する API キー</string>
+    <string name="authentication_preference_api_key_verified">認証済み</string>
+    <string name="authentication_preference_api_key_not_verified">認証できません</string>
+    <string name="authentication_preference_account_create">アカウントの作成</string>
+    <string name="authentication_preference_account_create_summary">天気データを使用するために、API キーを取得するアカウントを作成します。</string>
+    <string name="about_preference_category_title">このアプリについて</string>
+    <string name="about_preference">コピーライト</string>
+    <string name="about_preference_summary">Weather Underground は The Weather Channel, LLC. のアメリカ合衆国及び国際登録商標です。The Weather Underground Logo は Weather Underground, LLC. の商標です。</string>
 </resources>

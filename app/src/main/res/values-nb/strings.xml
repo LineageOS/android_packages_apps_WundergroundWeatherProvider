@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Innstillinger</string>
-  <string name="authentication_preference_category_title">Verifisering</string>
-  <string name="authentication_preference_api_key">API-nøkkel</string>
-  <string name="authentication_preference_api_key_summary">API-nøkkel som skal benyttes til Weather Underground verifisering</string>
-  <string name="authentication_preference_api_key_verified">Verifisert</string>
-  <string name="authentication_preference_api_key_not_verified">Klarer ikke verifisere</string>
-  <string name="authentication_preference_account_create">Lag konto</string>
-  <string name="authentication_preference_account_create_summary">Lag en konto for å få en API-nøkkel for værdata bruk</string>
-  <string name="about_preference_category_title">Om</string>
-  <string name="about_preference">Opphavsrett</string>
-  <string name="about_preference_summary">Weather Underground er et registrert varemerke av The Weather Channel, LLC. Både i USA and internasjonalt. Weather Underground Logoen er et varemerke av Weather Underground, LLC.</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="authentication_preference_category_title">Verifisering</string>
+    <string name="authentication_preference_api_key">API-nøkkel</string>
+    <string name="authentication_preference_api_key_summary">API-nøkkel som skal benyttes til Weather Underground verifisering</string>
+    <string name="authentication_preference_api_key_verified">Verifisert</string>
+    <string name="authentication_preference_api_key_not_verified">Klarer ikke verifisere</string>
+    <string name="authentication_preference_account_create">Lag konto</string>
+    <string name="authentication_preference_account_create_summary">Lag en konto for å få en API-nøkkel for værdata bruk</string>
+    <string name="about_preference_category_title">Om</string>
+    <string name="about_preference">Opphavsrett</string>
+    <string name="about_preference_summary">Weather Underground er et registrert varemerke av The Weather Channel, LLC. Både i USA and internasjonalt. Weather Underground Logoen er et varemerke av Weather Underground, LLC.</string>
 </resources>

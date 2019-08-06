@@ -12,4 +12,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string name="action_settings">การตั้งค่า</string>
+    <string name="authentication_preference_category_title">การยืนยันตัวตน</string>
+    <string name="authentication_preference_api_key">รหัส API</string>
+    <string name="authentication_preference_api_key_summary">รหัส API ที่จะใช้สำหรับการรับรองความถูกต้องของ Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">ได้รับการรับรองแล้ว</string>
+    <string name="authentication_preference_api_key_not_verified">ไม่ได้รับการรับรองแล้ว</string>
+    <string name="authentication_preference_account_create">สร้างบัญชี</string>
+    <string name="authentication_preference_account_create_summary">สร้างบัญชีเพื่อรับรหัส API สำหรับการใช้ข้อมูลสภาพอากาศ</string>
+    <string name="about_preference_category_title">เกี่ยวกับ</string>
+    <string name="about_preference">ลิขสิทธิ์</string>
+    <string name="about_preference_summary">Weather Underground เป็นเครื่องหมายการค้าจดทะเบียนของ Weather Channel, LLC ทั้งในสหรัฐอเมริกาและต่างประเทศ โลโก้ Weather Underground เป็นเครื่องหมายการค้าของ Weather Underground, LLC</string>
+</resources>

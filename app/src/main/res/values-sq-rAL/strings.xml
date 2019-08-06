@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Parametrat</string>
-  <string name="authentication_preference_category_title">Vërtetimi</string>
-  <string name="authentication_preference_api_key">Çelësi API</string>
-  <string name="authentication_preference_api_key_summary">Përdor çelësin API për vërtetimin e Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">U vërtetua</string>
-  <string name="authentication_preference_api_key_not_verified">Nuk u vërtetua dot</string>
-  <string name="authentication_preference_account_create">Krijo një llogari</string>
-  <string name="authentication_preference_account_create_summary">Krijo një llogari për të marrë një çelës API për përdorimin e të dhënave të motit</string>
-  <string name="about_preference_category_title">Rreth nesh</string>
-  <string name="about_preference">Të drejtat e autorit</string>
-  <string name="about_preference_summary">Weather Underground është një markë e regjistruar e The Weather Channel, LLC si në Shtetet e Bashkuara ashtu edhe ndërkombëtarisht. Logoja e Weather Underground është një markë e Weather Underground, LLC.</string>
+    <string name="action_settings">Parametrat</string>
+    <string name="authentication_preference_category_title">Vërtetimi</string>
+    <string name="authentication_preference_api_key">Çelësi API</string>
+    <string name="authentication_preference_api_key_summary">Përdor çelësin API për vërtetimin e Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">U vërtetua</string>
+    <string name="authentication_preference_api_key_not_verified">Nuk u vërtetua dot</string>
+    <string name="authentication_preference_account_create">Krijo një llogari</string>
+    <string name="authentication_preference_account_create_summary">Krijo një llogari për të marrë një çelës API për përdorimin e të dhënave të motit</string>
+    <string name="about_preference_category_title">Rreth nesh</string>
+    <string name="about_preference">Të drejtat e autorit</string>
+    <string name="about_preference_summary">Weather Underground është një markë e regjistruar e The Weather Channel, LLC si në Shtetet e Bashkuara ashtu edhe ndërkombëtarisht. Logoja e Weather Underground është një markë e Weather Underground, LLC.</string>
 </resources>
