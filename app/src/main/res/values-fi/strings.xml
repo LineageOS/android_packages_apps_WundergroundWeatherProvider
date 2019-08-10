@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Asetukset</string>
-  <string name="authentication_preference_category_title">Autentikointi</string>
-  <string name="authentication_preference_api_key">API-avain</string>
-  <string name="authentication_preference_api_key_summary">API-avain Weather Undergroundin todentamiseen</string>
-  <string name="authentication_preference_api_key_verified">Todentaminen</string>
-  <string name="authentication_preference_api_key_not_verified">Ei voitu todentaa</string>
-  <string name="authentication_preference_account_create">Luo tili</string>
-  <string name="authentication_preference_account_create_summary">Luo tili saadaksesi API-avaimen säädatan käyttämiseksi</string>
-  <string name="about_preference_category_title">Tietoja</string>
-  <string name="about_preference">Tekijänoikeudet</string>
-  <string name="about_preference_summary">Weather Underground on The Weather Channel, LLC:n rekisteröity tavaramerkki sekä Yhdysvalloissa sekä kansainvälisesti. The Weather Underground Logo on Weather Underground, LLC:n tavaramerkki.</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="authentication_preference_category_title">Autentikointi</string>
+    <string name="authentication_preference_api_key">API-avain</string>
+    <string name="authentication_preference_api_key_summary">API-avain Weather Undergroundin todentamiseen</string>
+    <string name="authentication_preference_api_key_verified">Todentaminen</string>
+    <string name="authentication_preference_api_key_not_verified">Ei voitu todentaa</string>
+    <string name="authentication_preference_account_create">Luo tili</string>
+    <string name="authentication_preference_account_create_summary">Luo tili saadaksesi API-avaimen säädatan käyttämiseksi</string>
+    <string name="about_preference_category_title">Tietoja</string>
+    <string name="about_preference">Tekijänoikeudet</string>
+    <string name="about_preference_summary">Weather Underground on The Weather Channel, LLC:n rekisteröity tavaramerkki sekä Yhdysvalloissa sekä kansainvälisesti. The Weather Underground Logo on Weather Underground, LLC:n tavaramerkki.</string>
 </resources>

@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Настройки</string>
-  <string name="authentication_preference_category_title">Аутентификация</string>
-  <string name="authentication_preference_api_key">API-ключ</string>
-  <string name="authentication_preference_api_key_summary">API-ключ для аутентификации в Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Аутентификация пройдена</string>
-  <string name="authentication_preference_api_key_not_verified">Не удалось проверить подлинность</string>
-  <string name="authentication_preference_account_create">Создать аккаунт</string>
-  <string name="authentication_preference_account_create_summary">Зарегистрироваться и получить API-ключ для доступа к информации о погоде</string>
-  <string name="about_preference_category_title">О приложении</string>
-  <string name="about_preference">Авторские права</string>
-  <string name="about_preference_summary">Weather Underground является зарегистрированной торговой маркой The Weather Channel, LLC. как в Соединенных Штатах, так и на международном уровне. Логотип Weather Underground является торговой маркой Weather Underground, LLC.</string>
+    <string name="action_settings">Настройки</string>
+    <string name="authentication_preference_category_title">Аутентификация</string>
+    <string name="authentication_preference_api_key">API-ключ</string>
+    <string name="authentication_preference_api_key_summary">API-ключ для аутентификации в Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Аутентификация пройдена</string>
+    <string name="authentication_preference_api_key_not_verified">Не удалось проверить подлинность</string>
+    <string name="authentication_preference_account_create">Создать аккаунт</string>
+    <string name="authentication_preference_account_create_summary">Зарегистрироваться и получить API-ключ для доступа к информации о погоде</string>
+    <string name="about_preference_category_title">О приложении</string>
+    <string name="about_preference">Авторские права</string>
+    <string name="about_preference_summary">Weather Underground является зарегистрированной торговой маркой The Weather Channel, LLC. как в Соединенных Штатах, так и на международном уровне. Логотип Weather Underground является торговой маркой Weather Underground, LLC.</string>
 </resources>

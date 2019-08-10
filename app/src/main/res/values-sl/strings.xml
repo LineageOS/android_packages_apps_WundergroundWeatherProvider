@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Nastavitve</string>
-  <string name="authentication_preference_category_title">Preverjanje pristnosti</string>
-  <string name="authentication_preference_api_key">API ključ</string>
-  <string name="authentication_preference_api_key_summary">API ključ se uporablja za preverjanje pristnosti Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Preverjena pristnost</string>
-  <string name="authentication_preference_api_key_not_verified">Ni mogoče preveriti pristnosti</string>
-  <string name="authentication_preference_account_create">Ustvari račun</string>
-  <string name="authentication_preference_account_create_summary">Ustvarite račun, da pridobite API ključ za uporabo vremenskih podatkov</string>
-  <string name="about_preference_category_title">O aplikaciji</string>
-  <string name="about_preference">Avtorske pravice</string>
-  <string name="about_preference_summary">Weather Underground je registrirana blagovna znamka podjetja The Weather Channel, LLC., tako v Združenih državah Amerike kot na mednarodni ravni. Weather Underground logotip je blagovna znamka Weather Underground, LLC.</string>
+    <string name="action_settings">Nastavitve</string>
+    <string name="authentication_preference_category_title">Preverjanje pristnosti</string>
+    <string name="authentication_preference_api_key">Ključ API</string>
+    <string name="authentication_preference_api_key_summary">Ključ API se uporablja za preverjanje pristnosti Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Preverjena pristnost</string>
+    <string name="authentication_preference_api_key_not_verified">Ni mogoče preveriti pristnosti</string>
+    <string name="authentication_preference_account_create">Ustvari račun</string>
+    <string name="authentication_preference_account_create_summary">Ustvarite račun, da pridobite API ključ za uporabo vremenskih podatkov</string>
+    <string name="about_preference_category_title">O aplikaciji</string>
+    <string name="about_preference">Avtorske pravice</string>
+    <string name="about_preference_summary">Weather Underground je registrirana blagovna znamka podjetja The Weather Channel, LLC., tako v Združenih državah Amerike kot na mednarodni ravni. Weather Underground logotip je blagovna znamka Weather Underground, LLC.</string>
 </resources>

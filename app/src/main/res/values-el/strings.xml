@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Ρυθμίσεις</string>
-  <string name="authentication_preference_category_title">Πιστοποίηση</string>
-  <string name="authentication_preference_api_key">Κλειδί API</string>
-  <string name="authentication_preference_api_key_summary">Το κλειδί API που θα χρησιμοποιηθεί για έλεγχο ταυτότητας στο Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Επικυρώθηκε</string>
-  <string name="authentication_preference_api_key_not_verified">Δεν είναι δυνατός ο έλεγχος ταυτότητας</string>
-  <string name="authentication_preference_account_create">Δημιουργία λογαριασμού</string>
-  <string name="authentication_preference_account_create_summary">Δημιουργήστε λογαριασμό για να λάβετε ένα κλειδί API για τη χρήση δεδομένων καιρού</string>
-  <string name="about_preference_category_title">Σχετικά</string>
-  <string name="about_preference">Πνευματικά δικαιώματα</string>
-  <string name="about_preference_summary">Το Weather Underground είναι σήμα κατατεθέν της The Weather Channel, LLC. τόσο στην Ελλάδα όσο και διεθνώς. Το λογότυπο Weather Underground είναι σήμα κατατεθέν της Weather Underground, LLC.</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="authentication_preference_category_title">Πιστοποίηση</string>
+    <string name="authentication_preference_api_key">Κλειδί API</string>
+    <string name="authentication_preference_api_key_summary">Το κλειδί API που θα χρησιμοποιηθεί για έλεγχο ταυτότητας στο Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Επικυρώθηκε</string>
+    <string name="authentication_preference_api_key_not_verified">Δεν είναι δυνατός ο έλεγχος ταυτότητας</string>
+    <string name="authentication_preference_account_create">Δημιουργία λογαριασμού</string>
+    <string name="authentication_preference_account_create_summary">Δημιουργήστε λογαριασμό για να λάβετε ένα κλειδί API για τη χρήση δεδομένων καιρού</string>
+    <string name="about_preference_category_title">Σχετικά</string>
+    <string name="about_preference">Πνευματικά δικαιώματα</string>
+    <string name="about_preference_summary">Το Weather Underground είναι σήμα κατατεθέν της The Weather Channel, LLC. τόσο στην Ελλάδα όσο και διεθνώς. Το λογότυπο Weather Underground είναι σήμα κατατεθέν της Weather Underground, LLC.</string>
 </resources>

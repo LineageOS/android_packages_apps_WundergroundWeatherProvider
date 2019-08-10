@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Настройки</string>
-  <string name="authentication_preference_category_title">Оторизация</string>
-  <string name="authentication_preference_api_key">API ключ</string>
-  <string name="authentication_preference_api_key_summary">Да се използва API ключ за удостоверяване Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Удостоверен</string>
-  <string name="authentication_preference_api_key_not_verified">Неуспешно удостоверяване</string>
-  <string name="authentication_preference_account_create">Създаване на потребител</string>
-  <string name="authentication_preference_account_create_summary">Създайте потребител за да получите API ключ за достъп до метеорологичните данни</string>
-  <string name="about_preference_category_title">Относно</string>
-  <string name="about_preference">Авторски права</string>
-  <string name="about_preference_summary">Weather Underground е регистрирана търговска марка на The Weather Channel, LLC. както в САЩ и в международен план. Логото на Weather Underground Logo е търговска марка на Weather Underground, LLC.</string>
+    <string name="action_settings">Настройки</string>
+    <string name="authentication_preference_category_title">Оторизация</string>
+    <string name="authentication_preference_api_key">API ключ</string>
+    <string name="authentication_preference_api_key_summary">Да се използва API ключ за удостоверяване Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Удостоверен</string>
+    <string name="authentication_preference_api_key_not_verified">Неуспешно удостоверяване</string>
+    <string name="authentication_preference_account_create">Създаване на потребител</string>
+    <string name="authentication_preference_account_create_summary">Създайте потребител за да получите API ключ за достъп до метеорологичните данни</string>
+    <string name="about_preference_category_title">Относно</string>
+    <string name="about_preference">Авторски права</string>
+    <string name="about_preference_summary">Weather Underground е регистрирана търговска марка на The Weather Channel, LLC. както в САЩ и в международен план. Логото на Weather Underground Logo е търговска марка на Weather Underground, LLC.</string>
 </resources>

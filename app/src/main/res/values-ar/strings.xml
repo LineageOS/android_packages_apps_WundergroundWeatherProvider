@@ -12,4 +12,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string name="action_settings">الإعدادات</string>
+    <string name="authentication_preference_category_title">المصادقة</string>
+    <string name="authentication_preference_api_key">مفتاح API</string>
+    <string name="authentication_preference_api_key_summary">مفتاح API سيستخدم لمصادقة Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">مصدق</string>
+    <string name="authentication_preference_api_key_not_verified">غير قادر على المصادقة</string>
+    <string name="authentication_preference_account_create">إنشاء حساب</string>
+    <string name="authentication_preference_account_create_summary">أنشئ حسابا للحصول على مفتاح API لاستخدام بيانات الطقس</string>
+    <string name="about_preference_category_title">حول</string>
+    <string name="about_preference">حقوق النشر</string>
+    <string name="about_preference_summary">Weather Underground علامة تجارية مسجلة لـ The Weather Channel, LLC. في الولايات المتحدة ودوليًا على حد سواء. شعار Weather Underground هو العلامة المميزة لـ Weather Underground, LLC.</string>
+</resources>

@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Ayarlar</string>
-  <string name="authentication_preference_category_title">Kimlik doğrulama</string>
-  <string name="authentication_preference_api_key">API anahtarı</string>
-  <string name="authentication_preference_api_key_summary">Weather Underground kimlik doğrulaması için kullanılmak üzere API anahtarı</string>
-  <string name="authentication_preference_api_key_verified">Kimlik doğrulaması yapılmış</string>
-  <string name="authentication_preference_api_key_not_verified">Kimlik doğrulanamadı</string>
-  <string name="authentication_preference_account_create">Hesap oluştur</string>
-  <string name="authentication_preference_account_create_summary">Hava veri kullanımı için bir API anahtarı almak için bir hesap oluşturun</string>
-  <string name="about_preference_category_title">Hakkında</string>
-  <string name="about_preference">Telif Hakkı</string>
-  <string name="about_preference_summary">Weather Underground hava durumu kanalı, LLC, tescilli bir markasıdır. hem ABD hem de uluslararası. Hava yeraltı Logo Weather Underground, LLC bir markasıdır.</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="authentication_preference_category_title">Kimlik doğrulama</string>
+    <string name="authentication_preference_api_key">API anahtarı</string>
+    <string name="authentication_preference_api_key_summary">Weather Underground kimlik doğrulaması için kullanılmak üzere API anahtarı</string>
+    <string name="authentication_preference_api_key_verified">Kimlik doğrulaması yapılmış</string>
+    <string name="authentication_preference_api_key_not_verified">Kimlik doğrulanamadı</string>
+    <string name="authentication_preference_account_create">Hesap oluştur</string>
+    <string name="authentication_preference_account_create_summary">Hava veri kullanımı için bir API anahtarı almak için bir hesap oluşturun</string>
+    <string name="about_preference_category_title">Hakkında</string>
+    <string name="about_preference">Telif Hakkı</string>
+    <string name="about_preference_summary">Weather Underground hava durumu kanalı, LLC, tescilli bir markasıdır. hem ABD hem de uluslararası. Hava yeraltı Logo Weather Underground, LLC bir markasıdır.</string>
 </resources>

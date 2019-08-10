@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Configuració</string>
-  <string name="authentication_preference_category_title">Autenticació</string>
-  <string name="authentication_preference_api_key">Clau d\'API</string>
-  <string name="authentication_preference_api_key_summary">Clau d\'API que serà utilitzada per a l\'autenticació de Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Autentificat</string>
-  <string name="authentication_preference_api_key_not_verified">No es pot autenticar</string>
-  <string name="authentication_preference_account_create">Crea un compte</string>
-  <string name="authentication_preference_account_create_summary">Crea un compte per aconseguir una clau d\'API per a utilitzar amb les dades meteorològiques</string>
-  <string name="about_preference_category_title">Quant a</string>
-  <string name="about_preference">Llicència</string>
-  <string name="about_preference_summary">Weather Underground és una marca registrada de The Weather Channel, LLC. tant als Estats Units com internacionalment. El logotip de Weather Underground és una marca registrada de Weather Underground, LLC.</string>
+    <string name="action_settings">Configuració</string>
+    <string name="authentication_preference_category_title">Autenticació</string>
+    <string name="authentication_preference_api_key">Clau d\'API</string>
+    <string name="authentication_preference_api_key_summary">Clau d\'API que serà utilitzada per a l\'autenticació de Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Autentificat</string>
+    <string name="authentication_preference_api_key_not_verified">No es pot autenticar</string>
+    <string name="authentication_preference_account_create">Crea un compte</string>
+    <string name="authentication_preference_account_create_summary">Crea un compte per aconseguir una clau d\'API per a utilitzar amb les dades meteorològiques</string>
+    <string name="about_preference_category_title">Quant a</string>
+    <string name="about_preference">Llicència</string>
+    <string name="about_preference_summary">Weather Underground és una marca registrada de The Weather Channel, LLC. tant als Estats Units com internacionalment. El logotip de Weather Underground és una marca registrada de Weather Underground, LLC.</string>
 </resources>

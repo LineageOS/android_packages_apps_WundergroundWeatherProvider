@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">設定</string>
-  <string name="authentication_preference_category_title">身份驗證</string>
-  <string name="authentication_preference_api_key">API 金鑰</string>
-  <string name="authentication_preference_api_key_summary">API 金鑰用於 Weather Underground 身份驗證</string>
-  <string name="authentication_preference_api_key_verified">已身份驗證</string>
-  <string name="authentication_preference_api_key_not_verified">無法身份驗證</string>
-  <string name="authentication_preference_account_create">建立帳戶</string>
-  <string name="authentication_preference_account_create_summary">建立帳戶使用 API 金鑰即可取得天氣資料</string>
-  <string name="about_preference_category_title">相關資訊</string>
-  <string name="about_preference">版權所有</string>
-  <string name="about_preference_summary">Weather Underground 註冊商標由 The Weather Channel, LLC 於美國及國際間持有，Weather Underground 標誌為 Weather Underground, LLC. 所持有。</string>
+    <string name="action_settings">設定</string>
+    <string name="authentication_preference_category_title">身份驗證</string>
+    <string name="authentication_preference_api_key">API 金鑰</string>
+    <string name="authentication_preference_api_key_summary">API 金鑰用於 Weather Underground 身份驗證</string>
+    <string name="authentication_preference_api_key_verified">已身份驗證</string>
+    <string name="authentication_preference_api_key_not_verified">無法身份驗證</string>
+    <string name="authentication_preference_account_create">建立帳戶</string>
+    <string name="authentication_preference_account_create_summary">建立帳戶使用 API 金鑰即可取得天氣資料</string>
+    <string name="about_preference_category_title">相關資訊</string>
+    <string name="about_preference">版權所有</string>
+    <string name="about_preference_summary">Weather Underground 註冊商標由 The Weather Channel, LLC 於美國及國際間持有，Weather Underground 標誌為 Weather Underground, LLC. 所持有。</string>
 </resources>

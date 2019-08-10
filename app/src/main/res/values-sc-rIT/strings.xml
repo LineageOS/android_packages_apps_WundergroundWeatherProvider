@@ -12,4 +12,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string name="action_settings">Cunfiguratziones</string>
+    <string name="about_preference_category_title">Informatziones</string>
+</resources>

@@ -12,4 +12,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string name="action_settings">Ynstellingen</string>
+    <string name="authentication_preference_category_title">Autentikaasje</string>
+    <string name="authentication_preference_api_key">API-kaai</string>
+    <string name="authentication_preference_api_key_summary">API-kaai foar autentikaasje by Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Ferifiearre</string>
+    <string name="authentication_preference_api_key_not_verified">Kin net ferifiearje</string>
+    <string name="authentication_preference_account_create">Account oanmeitsje</string>
+    <string name="authentication_preference_account_create_summary">Meitsje in account oan om in API-kaai te krijen foar gebrûk fan waargegevens</string>
+    <string name="about_preference_category_title">Oer</string>
+    <string name="about_preference">Auteursrjocht</string>
+    <string name="about_preference_summary">Weather Underground is in deponearre hannelsmerk fan The Weather Channel, LLC. sawol yn de Ferienige Steaten en ynternasjonaal. It Weather Underground-logo is in hanelsmerk fan Weather Underground, LLC.</string>
+</resources>

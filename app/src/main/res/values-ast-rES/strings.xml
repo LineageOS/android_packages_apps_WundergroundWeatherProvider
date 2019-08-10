@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-  <string name="action_settings">Axustes</string>
-  <string name="authentication_preference_category_title">Autenticación</string>
-  <string name="authentication_preference_api_key">Clave API</string>
-  <string name="authentication_preference_api_key_summary">Clave API a usar pa l\'autenticación con Weather Underground</string>
-  <string name="authentication_preference_api_key_verified">Autenticóse</string>
-  <string name="authentication_preference_api_key_not_verified">Nun pue autenticase</string>
-  <string name="authentication_preference_account_create">Crear cuenta</string>
-  <string name="authentication_preference_account_create_summary">Crea una cuenta pa consiguir una clave API pal usu de datos meteorolóxicos</string>
-  <string name="about_preference_category_title">Tocante a</string>
-  <string name="about_preference">Copyright</string>
-  <string name="about_preference_summary">Weather Underground ye una marca rexistrada de The Weather Channel, LLC. n\'Estaos Xuníos ya internacionalmente. El logu de The Weather Channel ye una marca rexistrada de The Weather Channel, LLC.</string>
+    <string name="action_settings">Axustes</string>
+    <string name="authentication_preference_category_title">Autenticación</string>
+    <string name="authentication_preference_api_key">Clave API</string>
+    <string name="authentication_preference_api_key_summary">Clave API a usar pa l\'autenticación con Weather Underground</string>
+    <string name="authentication_preference_api_key_verified">Autenticóse</string>
+    <string name="authentication_preference_api_key_not_verified">Nun pue autenticase</string>
+    <string name="authentication_preference_account_create">Crear cuenta</string>
+    <string name="authentication_preference_account_create_summary">Crea una cuenta pa consiguir una clave API pal usu de datos meteorolóxicos</string>
+    <string name="about_preference_category_title">Tocante a</string>
+    <string name="about_preference">Copyright</string>
+    <string name="about_preference_summary">Weather Underground ye una marca rexistrada de The Weather Channel, LLC. n\'Estaos Xuníos ya internacionalmente. El logu de The Weather Channel ye una marca rexistrada de The Weather Channel, LLC.</string>
 </resources>
